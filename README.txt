@@ -1,7 +1,8 @@
-LKW Arbeitszeit – Fahrertest V3
+LKW Arbeitszeit – Fahrertest V4
 
-Sprachen:
-Deutsch, Englisch, Polnisch, Russisch, Slowakisch, Rumänisch, Bulgarisch.
-
-Die Sprache wird beim ersten Start ganz oben ausgewählt und kann später jederzeit unter Einstellungen geändert werden.
-Die vollständige Fahrer-Ersteinrichtung aus V2 bleibt enthalten.
+Sprach-Fix:
+- Alle sichtbaren Hauptbereiche der App wurden an die Sprachumschaltung angebunden.
+- Auch dynamische Texte wie Ja/Nein, Datum, Freier Tag, Urlaub/Krank-Hinweise
+  und Zusatzbeitrag werden übersetzt.
+- Sprachen: Deutsch, Englisch, Polnisch, Russisch, Slowakisch, Rumänisch, Bulgarisch.
+- Sprache weiterhin beim ersten Start und jederzeit in Einstellungen wählbar.

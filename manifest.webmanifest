@@ -1,5 +1,5 @@
 {
-  "name": "LKW Arbeitszeit – Fahrertest V3",
+  "name": "LKW Arbeitszeit – Fahrertest V4",
   "short_name": "LKW Fahrertest",
   "start_url": "./index.html",
   "scope": "./",
@@ -20,5 +20,6 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "description": "Mehrsprachige Testversion mit vollständiger Übersetzung der Oberfläche."
 }
