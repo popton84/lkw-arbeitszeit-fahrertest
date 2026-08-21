@@ -1,3 +1,7 @@
-LKW Arbeitszeit – Fahrertest V1
+LKW Arbeitszeit – Fahrertest V3
 
-Neutrale unabhängige Testversion. Keine Namen oder Lohndaten von Christian/Helmut. Beim ersten Start richtet der Tester sein eigenes Fahrerprofil ein. Daten bleiben lokal auf seinem Gerät. Bitte als separates GitHub-Pages-Projekt veröffentlichen.
+Sprachen:
+Deutsch, Englisch, Polnisch, Russisch, Slowakisch, Rumänisch, Bulgarisch.
+
+Die Sprache wird beim ersten Start ganz oben ausgewählt und kann später jederzeit unter Einstellungen geändert werden.
+Die vollständige Fahrer-Ersteinrichtung aus V2 bleibt enthalten.

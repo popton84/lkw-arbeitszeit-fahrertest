@@ -1,12 +1,12 @@
 {
-  "name": "LKW Arbeitszeit – Fahrertest",
+  "name": "LKW Arbeitszeit – Fahrertest V3",
   "short_name": "LKW Fahrertest",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#030705",
   "theme_color": "#07110b",
-  "lang": "de-DE",
+  "lang": "de",
   "icons": [
     {
       "src": "icon-192.png",
