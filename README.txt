@@ -1,8 +1,13 @@
-LKW Arbeitszeit – Fahrertest V4
+LKW Arbeitszeit – Fahrertest V5
 
-Sprach-Fix:
-- Alle sichtbaren Hauptbereiche der App wurden an die Sprachumschaltung angebunden.
-- Auch dynamische Texte wie Ja/Nein, Datum, Freier Tag, Urlaub/Krank-Hinweise
-  und Zusatzbeitrag werden übersetzt.
-- Sprachen: Deutsch, Englisch, Polnisch, Russisch, Slowakisch, Rumänisch, Bulgarisch.
-- Sprache weiterhin beim ersten Start und jederzeit in Einstellungen wählbar.
+NEU:
+- Anwesenheitsprämie / Monatsprämie kann im Fahrerprofil eingetragen werden.
+- Prämie erscheint separat in der Übersicht.
+- Prämie wird in die Brutto-Schätzung eingerechnet.
+- Start/Pause/Feierabend zeigen ihren Zustand jetzt deutlich an.
+- Nach Arbeitsbeginn: Haken + Status „Arbeitszeit läuft seit …“.
+- Während Pause: hervorgehobener Pause-Knopf + „Pause läuft seit …“.
+- Nach Feierabend: „Arbeitstag beendet“.
+- Nicht mögliche Buttons werden automatisch deaktiviert.
+- Alle neuen Texte sind in allen 7 vorhandenen Sprachen hinterlegt.
+- Bestehende V4-Testdaten bleiben beim Update erhalten.
