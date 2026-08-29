@@ -1,13 +1,19 @@
-LKW Arbeitszeit – Fahrertest V5
+LKW Arbeitszeit – Fahrertest V6
 
-NEU:
-- Anwesenheitsprämie / Monatsprämie kann im Fahrerprofil eingetragen werden.
-- Prämie erscheint separat in der Übersicht.
-- Prämie wird in die Brutto-Schätzung eingerechnet.
-- Start/Pause/Feierabend zeigen ihren Zustand jetzt deutlich an.
-- Nach Arbeitsbeginn: Haken + Status „Arbeitszeit läuft seit …“.
-- Während Pause: hervorgehobener Pause-Knopf + „Pause läuft seit …“.
-- Nach Feierabend: „Arbeitstag beendet“.
-- Nicht mögliche Buttons werden automatisch deaktiviert.
-- Alle neuen Texte sind in allen 7 vorhandenen Sprachen hinterlegt.
-- Bestehende V4-Testdaten bleiben beim Update erhalten.
+NEU / ÜBERARBEITET:
+- Monatsansicht zeigt jetzt alle gespeicherten Tage.
+- Jeder Tag kann über „Tag bearbeiten“ nachträglich geändert werden.
+- Bearbeitbar: Tagesart, Arbeitsbeginn, Arbeitsende, Gesamtpause und Spesen.
+- Ein Tag kann im Editor auch gelöscht werden.
+- Datumsausgabe ist robust; kein „Invalid Date“ bei gültigen gespeicherten Datumsschlüsseln.
+- Start/Pause/Feierabend-Zustände wurden komplett überarbeitet:
+  • Arbeitsbeginn wird nach Start zu „Gestartet“ mit Haken.
+  • Der jeweils nächste sinnvolle Knopf wird deutlich hervorgehoben.
+  • Laufende Pause wird orange hervorgehoben.
+  • Feierabend ist während laufender Arbeit klar als Stop-Aktion sichtbar.
+  • Statuszeile zeigt Arbeitszeit läuft / Pause läuft / Arbeitstag beendet.
+- Anwesenheitsprämie aus V5 bleibt enthalten.
+- Alle 7 Sprachen bleiben erhalten; neue V6-Texte wurden ebenfalls übersetzt.
+- Bestehende V4/V5-Testdaten bleiben erhalten, da der lokale Datenbereich nicht geändert wurde.
+
+Die Tagesbearbeitung orientiert sich an der funktionierenden Original-App V14.
